@@ -7,6 +7,8 @@ A dedicated Admin ESP tool requested by the community. Refer to the update instr
 
 ## 🔍 Showcase
 
+![image](https://github.com/user-attachments/assets/f7b3d419-034c-42bf-a329-8906019caf88)
+
 
 ## 📖 Guides
 - Update procedure: ./Updating.md
